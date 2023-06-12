@@ -1,0 +1,9 @@
+- uses: Platane/snk@v2
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    palette:     A preset of color, one of [github, github-dark, github-light]
+    color_snake: Color of the snake             Exactly 5 colors are expected.
+    outputs: |
+      dist/snake.svg
+      dist/snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9

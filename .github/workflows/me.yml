@@ -1,0 +1,16 @@
+name: Greet User
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Greet user
+        run: |
+          echo "Hello, ${{ github.event.sender.login }}!"

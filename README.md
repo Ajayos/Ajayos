@@ -25,20 +25,16 @@
 
 <br>
 
-- 👨‍💻 I'm from Kerala🙌💖.
-- 👨‍💻 Currently, I'm doing diploma in computer engineering at GPTC Perumbavoor, Kerala😜. 
-- 👨‍💻 I love coding 😍😉
-- 👨‍💻 I'm passionate about programming and technology, and I love learning new things
-- 👨‍💻 I'm working as an Open Source Software Developer.😁
-- 👨‍💻 👯 I’m looking forward to collaborate on open source projects.
-- 👨‍💻 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-- 👨‍💻 😄 Pronouns: He/Him/We
-- 👨‍💻 ⚡ Coding fact: "There are over 700 different programming languages".
-- 👨‍💻 💪🏼 Fav Quote: "Great Developers never stop learning".
-- 👨‍💻 🔄 Routine : Eat - Sleep - Code - Repeat
-- 👨‍💻 All of my Open Source projects are available at **[repositories](https://github.com/Ajayos?tab=repositories)**
-- 👨‍💻 🆓 Don't Forget To **[Follow Me](https://github.com/Ajayos)**
-
+- 👨‍💻 Hey there, I'm from Kerala 😜
+- 👨‍💻 Coding is my passion, and I absolutely love diving into new technologies and learning along the way. 😍😉
+- 👨‍💻 I recently joined Prudent Tech as a Software Developer, and I'm thrilled to contribute to open source projects. 😁
+- 👨‍💻 Always up for collaborating on open source initiatives! Let's build something awesome together. 👯
+- 👨‍💻 Feel free to ask me anything; I'm here to help with whatever I can! Just remember, it's gotta be my court! 😉
+- 👨‍💻 Pronouns: He/Him/We
+- 👨‍💻 ⚡ Fun fact: Did you know there are over 700 different programming languages out there?
+- 👨‍💻 💪🏼 Favorite quote: "Great developers never stop learning."
+- 👨‍💻 🔄 My routine: Eat - Sleep - Code - Repeat
+- 👨‍💻 Check out my open source projects on **[GitHub](https://github.com/Ajayos?tab=repositories)**, and don't forget to **[follow me](https://github.com/Ajayos)** for updates! 🆓
    [![👨follower](https://custom-icon-badges.herokuapp.com/github/followers/Ajayos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/Ajayos?tab=followers)
 
 

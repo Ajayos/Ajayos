@@ -34,7 +34,8 @@
 - 👨‍💻 ⚡ Fun fact: Did you know there are over 700 different programming languages out there?
 - 👨‍💻 💪🏼 Favorite quote: "Great developers never stop learning."
 - 👨‍💻 🔄 My routine: Eat - Sleep - Code - Repeat
-- 👨‍💻 Check out my open source projects on **[GitHub](https://github.com/Ajayos?tab=repositories)**, and don't forget to **[follow me](https://github.com/Ajayos)** for updates! 🆓
+- 👨‍💻 Check out my open source projects on **[GitHub](https://github.com/Ajayos?tab=repositories)**
+- 👨‍💻 🆓 Don't Forget To **[follow me](https://github.com/Ajayos)** for updates! 🆓
    [![👨follower](https://custom-icon-badges.herokuapp.com/github/followers/Ajayos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/Ajayos?tab=followers)
 
 
@@ -51,14 +52,14 @@ import Developer from 'Ajayos';
 class Bio extends Developer {
   name     = 'Ajay o s';
   title    = 'Software Engineer';
-  company  = 'AKHUB | SOWEHA';
+  company  = 'AKHUB | SOWEHA | PRUDENT';
   location = 'KERALA, INDIA';
 }
 
 class Skills extends Developer {
   languages  = ['JavaScript', 'PHP','Java','C','C++'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  frameworks = ['React', 'React Native'];
 }
 ```
 
@@ -175,7 +176,7 @@ class Skills extends Developer {
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
    
-[![Ajayos's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ajayos&theme=github	)](https://github.com/Ajayos)
+[![Ajayos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajayos&theme=github	)](https://github.com/Ajayos)
 </details>
 
 <img src="./gif/loading.gif">
@@ -304,6 +305,7 @@ class Skills extends Developer {
 | Microcontroller ⚙ | |
 | ------------- | -------------------------------------------------------------------- |
 | Arduino    | <img width="30px" src="https://raw.githubusercontent.com/Ajayos/.github/master/IMAGE/arduino.png"> |
+| ESP8266  | <img width="30px" src="https://w7.pngwing.com/pngs/869/862/png-transparent-nodemcu-esp8266-wi-fi-lua-usb-usb-electronics-microcontroller-arduino-thumbnail.png"> |
 | Raspberry PI  | <img width="30px" src="https://raw.githubusercontent.com/Ajayos/.github/master/IMAGE/raspberry-pi.png"> |
 
 </details>
